@@ -213,7 +213,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     text-transform: uppercase;
     line-height: 1.5;
 }
-.header-text h2 span {color: #d92cf9;}
+/* .header-text h2 span {color: #d92cf9;} */
+ .header-text h2 span {color:#fff;} */
 .header-text p {
     color: #fff;
     font-size: 20px;
